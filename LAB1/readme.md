@@ -1,4 +1,4 @@
-## Lab 2 
+## Lab 1 
 
 1. `swap.c` Write a program in C to swap two numbers using pointer.
 2. `structure.c` Write a C program to assign values to each members of the following structure. Pass the populated structure to a function using call-by address and print the value of each member of the structure.
